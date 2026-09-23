@@ -1,2 +1,2 @@
-this is just for study transfoemrs and pytorch
+this is just for study transfomers and pytorch
 (not finish yet)
